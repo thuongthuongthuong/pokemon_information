@@ -1,70 +1,70 @@
 [
     {
-        "typename": "Bug",
+        "name": "Bug",
         "url": "https://www.serebii.net/pokedex-rs/type/bug.gif"
     },
     {
-        "typename": "Dark",
+        "name": "Dark",
         "url": "https://www.serebii.net/pokedex-rs/type/dark.gif"
     },
     {
-        "typename": "Dragon",
+        "name": "Dragon",
         "url": "https://www.serebii.net/pokedex-rs/type/dragon.gif"
     },
     {
-        "typename": "Electric",
+        "name": "Electric",
         "url": "https://www.serebii.net/pokedex-rs/type/electric.gif"
     },
     {
-        "typename": "Fighting",
+        "name": "Fighting",
         "url": "https://www.serebii.net/pokedex-rs/type/fighting.gif"
     },
     {
-        "typename": "Fire",
+        "name": "Fire",
         "url": "https://www.serebii.net/pokedex-rs/type/fire.gif"
     },
     {
-        "typename": "Flying",
+        "name": "Flying",
         "url": "https://www.serebii.net/pokedex-rs/type/flying.gif"
     },
     {
-        "typename": "Ghost",
+        "name": "Ghost",
         "url": "https://www.serebii.net/pokedex-rs/type/ghost.gif"
     },
     {
-        "typename": "Grass",
+        "name": "Grass",
         "url": "https://www.serebii.net/pokedex-rs/type/grass.gif"
     },
     {
-        "typename": "Ground",
+        "name": "Ground",
         "url": "https://www.serebii.net/pokedex-rs/type/ground.gif"
     },
     {
-        "typename": "Ice",
+        "name": "Ice",
         "url": "https://www.serebii.net/pokedex-rs/type/ice.gif"
     },
     {
-        "typename": "Normal",
+        "name": "Normal",
         "url": "https://www.serebii.net/pokedex-rs/type/normal.gif"
     },
     {
-        "typename": "Poison",
+        "name": "Poison",
         "url": "https://www.serebii.net/pokedex-rs/type/poison.gif"
     },
     {
-        "typename": "Psychic",
+        "name": "Psychic",
         "url": "https://www.serebii.net/pokedex-rs/type/psychic.gif"
     },
     {
-        "typename": "Rock",
+        "name": "Rock",
         "url": "https://www.serebii.net/pokedex-rs/type/rock.gif"
     },
     {
-        "typename": "Steel",
+        "name": "Steel",
         "url": "https://www.serebii.net/pokedex-rs/type/steel.gif"
     },
     {
-        "typename": "Water",
+        "name": "Water",
         "url": "https://www.serebii.net/pokedex-rs/type/water.gif"
     }
 ]
