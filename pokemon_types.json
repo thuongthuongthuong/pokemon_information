@@ -1,0 +1,70 @@
+[
+    {
+        "typename": "Bug",
+        "url": "https://www.serebii.net/pokedex-rs/type/bug.gif"
+    },
+    {
+        "typename": "Dark",
+        "url": "https://www.serebii.net/pokedex-rs/type/dark.gif"
+    },
+    {
+        "typename": "Dragon",
+        "url": "https://www.serebii.net/pokedex-rs/type/dragon.gif"
+    },
+    {
+        "typename": "Electric",
+        "url": "https://www.serebii.net/pokedex-rs/type/electric.gif"
+    },
+    {
+        "typename": "Fighting",
+        "url": "https://www.serebii.net/pokedex-rs/type/fighting.gif"
+    },
+    {
+        "typename": "Fire",
+        "url": "https://www.serebii.net/pokedex-rs/type/fire.gif"
+    },
+    {
+        "typename": "Flying",
+        "url": "https://www.serebii.net/pokedex-rs/type/flying.gif"
+    },
+    {
+        "typename": "Ghost",
+        "url": "https://www.serebii.net/pokedex-rs/type/ghost.gif"
+    },
+    {
+        "typename": "Grass",
+        "url": "https://www.serebii.net/pokedex-rs/type/grass.gif"
+    },
+    {
+        "typename": "Ground",
+        "url": "https://www.serebii.net/pokedex-rs/type/ground.gif"
+    },
+    {
+        "typename": "Ice",
+        "url": "https://www.serebii.net/pokedex-rs/type/ice.gif"
+    },
+    {
+        "typename": "Normal",
+        "url": "https://www.serebii.net/pokedex-rs/type/normal.gif"
+    },
+    {
+        "typename": "Poison",
+        "url": "https://www.serebii.net/pokedex-rs/type/poison.gif"
+    },
+    {
+        "typename": "Psychic",
+        "url": "https://www.serebii.net/pokedex-rs/type/psychic.gif"
+    },
+    {
+        "typename": "Rock",
+        "url": "https://www.serebii.net/pokedex-rs/type/rock.gif"
+    },
+    {
+        "typename": "Steel",
+        "url": "https://www.serebii.net/pokedex-rs/type/steel.gif"
+    },
+    {
+        "typename": "Water",
+        "url": "https://www.serebii.net/pokedex-rs/type/water.gif"
+    }
+]
