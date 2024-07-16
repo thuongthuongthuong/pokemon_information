@@ -1,5 +1,9 @@
 [
     {
+        "name": "Total",
+        "url": "https://www.serebii.net/pokedex-dp/total.gif"
+    },
+    {
         "name": "Bug",
         "url": "https://www.serebii.net/pokedex-rs/type/bug.gif"
     },
