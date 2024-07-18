@@ -557,8 +557,6 @@
             "name": "Rattata",
             "img": "https://www.serebii.net/pokemon/art/019.png",
             "type": [
-                "Normal",
-                "Dark",
                 "Normal"
             ],
             "height": "0.3m",
@@ -569,15 +567,7 @@
             "next_evolution": [
                 {
                     "num": "020",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "019-a",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "020-a",
-                    "name": "Unknown"
+                    "name": "Raticate"
                 }
             ]
         },
@@ -587,8 +577,6 @@
             "name": "Raticate",
             "img": "https://www.serebii.net/pokemon/art/020.png",
             "type": [
-                "Normal",
-                "Dark",
                 "Normal"
             ],
             "height": "0.7m",
@@ -598,17 +586,7 @@
             "prev_evolution": [
                 {
                     "num": "019",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "019-a",
-                    "name": "Unknown"
-                }
-            ],
-            "next_evolution": [
-                {
-                    "num": "020-a",
-                    "name": "Unknown"
+                    "name": "Rattata"
                 }
             ]
         },
@@ -706,23 +684,24 @@
             "weight": "6kg",
             "candy": "",
             "egg": "",
-            "prev_evolution": [],
+            "prev_evolution": [{
+                "num": "172",
+                "name": "Pichu"
+            }
+        ],
             "next_evolution": [
-                {
-                    "num": "172",
-                    "name": "Unknown"
-                },
+                
                 {
                     "num": "025-gi",
                     "name": "Gigantamax Pikachu"
                 },
                 {
                     "num": "026",
-                    "name": "Unknown"
+                    "name": "Raichu"
                 },
                 {
                     "num": "026-a",
-                    "name": "Unknown"
+                    "name": "Alola Raichu"
                 }
             ]
         },
@@ -742,23 +721,16 @@
             "egg": "",
             "prev_evolution": [
                 {
-                    "num": "025",
-                    "name": "Unknown"
+                    "num": "172",
+                    "name": "Pichu"
                 },
                 {
-                    "num": "025-gi",
-                    "name": "Gigantamax Pikachu"
+                    "num": "025",
+                    "name": "Pikachu"
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "172",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "026-a",
-                    "name": "Unknown"
-                }
+
             ]
         },
         {
@@ -767,9 +739,7 @@
             "name": "Sandshrew",
             "img": "https://www.serebii.net/pokemon/art/027.png",
             "type": [
-                "Ground",
-                "Ice",
-                "Steel"
+                "Ground"
             ],
             "height": "0.6m",
             "weight": "12kg",
@@ -779,15 +749,7 @@
             "next_evolution": [
                 {
                     "num": "028",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "027-a",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "028-a",
-                    "name": "Unknown"
+                    "name": "Sandslash"
                 }
             ]
         },
@@ -797,9 +759,7 @@
             "name": "Sandslash",
             "img": "https://www.serebii.net/pokemon/art/028.png",
             "type": [
-                "Ground",
-                "Ice",
-                "Steel"
+                "Ground"
             ],
             "height": "1m",
             "weight": "29.5kg",
@@ -808,18 +768,11 @@
             "prev_evolution": [
                 {
                     "num": "027",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "027-a",
-                    "name": "Unknown"
+                    "name": "Sandshrew"
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "028-a",
-                    "name": "Unknown"
-                }
+               
             ]
         },
         {
@@ -982,12 +935,14 @@
             "weight": "7.5kg",
             "candy": "",
             "egg": "",
-            "prev_evolution": [],
-            "next_evolution": [
+            "prev_evolution": [
                 {
                     "num": "173",
                     "name": "Cleffa"
-                },
+                }
+            ],
+            "next_evolution": [
+                
                 {
                     "num": "036",
                     "name": "Clefable"
@@ -1008,15 +963,16 @@
             "egg": "",
             "prev_evolution": [
                 {
+                    "num": "173",
+                    "name": "Cleffa"
+                },
+                {
                     "num": "035",
                     "name": "Clefairy"
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "173",
-                    "name": "Cleffa"
-                }
+                
             ]
         },
         {
@@ -1025,8 +981,7 @@
             "name": "Vulpix",
             "img": "https://www.serebii.net/pokemon/art/037.png",
             "type": [
-                "Fire",
-                "Ice"
+                "Fire"
             ],
             "height": "0.6m",
             "weight": "9.9kg",
@@ -1036,15 +991,7 @@
             "next_evolution": [
                 {
                     "num": "038",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "037-a",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "038-a",
-                    "name": "Unknown"
+                    "name": "Ninetales"
                 }
             ]
         },
@@ -1054,9 +1001,7 @@
             "name": "Ninetales",
             "img": "https://www.serebii.net/pokemon/art/038.png",
             "type": [
-                "Fire",
-                "Ice",
-                "Fairy"
+                "Fire"
             ],
             "height": "1.1m",
             "weight": "19.9kg",
@@ -1065,18 +1010,11 @@
             "prev_evolution": [
                 {
                     "num": "037",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "037-a",
-                    "name": "Unknown"
+                    "name": "Vulpix"
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "038-a",
-                    "name": "Unknown"
-                }
+                
             ]
         },
         {
@@ -1092,12 +1030,12 @@
             "weight": "5.5kg",
             "candy": "",
             "egg": "",
-            "prev_evolution": [],
+            "prev_evolution": [{
+                "num": "174",
+                "name": "Igglybuff"
+            }],
             "next_evolution": [
-                {
-                    "num": "174",
-                    "name": "Igglybuff"
-                },
+                
                 {
                     "num": "040",
                     "name": "Wigglytuff"
@@ -1119,15 +1057,16 @@
             "egg": "",
             "prev_evolution": [
                 {
+                    "num": "174",
+                    "name": "Igglybuff"
+                },
+                {
                     "num": "039",
                     "name": "Jigglypuff"
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "174",
-                    "name": "Igglybuff"
-                }
+                
             ]
         },
         {
@@ -1264,10 +1203,7 @@
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "182",
-                    "name": "Bellossom"
-                }
+                
             ]
         },
         {
@@ -1360,9 +1296,7 @@
             "name": "Diglett",
             "img": "https://www.serebii.net/pokemon/art/050.png",
             "type": [
-                "Ground",
-                "Ground",
-                "Steel"
+                "Ground"
             ],
             "height": "0.2m",
             "weight": "0.8kg",
@@ -1372,15 +1306,7 @@
             "next_evolution": [
                 {
                     "num": "051",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "050-a",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "051-a",
-                    "name": "Unknown"
+                    "name": "Dugtrio"
                 }
             ]
         },
@@ -1390,9 +1316,7 @@
             "name": "Dugtrio",
             "img": "https://www.serebii.net/pokemon/art/051.png",
             "type": [
-                "Ground",
-                "Ground",
-                "Steel"
+                "Ground"
             ],
             "height": "0.7m",
             "weight": "33.3kg",
@@ -1401,18 +1325,11 @@
             "prev_evolution": [
                 {
                     "num": "050",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "050-a",
-                    "name": "Unknown"
+                    "name": "Diglett"
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "051-a",
-                    "name": "Unknown"
-                }
+                
             ]
         },
         {
@@ -1437,23 +1354,23 @@
                 },
                 {
                     "num": "053",
-                    "name": "Unknown"
+                    "name": "Persian"
                 },
                 {
                     "num": "052-a",
-                    "name": "Unknown"
+                    "name": "Alola Meowth"
                 },
                 {
                     "num": "053-a",
-                    "name": "Unknown"
+                    "name": "Alola Persian"
                 },
                 {
                     "num": "052-g",
-                    "name": "Unknown"
+                    "name": "Galarian Meowth"
                 },
                 {
                     "num": "863",
-                    "name": "Unknown"
+                    "name": "Perrserker"
                 }
             ]
         },
@@ -1473,7 +1390,7 @@
             "prev_evolution": [
                 {
                     "num": "052",
-                    "name": "Unknown"
+                    "name": "Meowth"
                 },
                 {
                     "num": "052-gi",
@@ -1481,21 +1398,21 @@
                 },
                 {
                     "num": "052-a",
-                    "name": "Unknown"
+                    "name": "Alola Meowth"
                 },
                 {
                     "num": "052-g",
-                    "name": "Unknown"
+                    "name": "Galarian Meowth"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "053-a",
-                    "name": "Unknown"
+                    "name": "Alola Persian"
                 },
                 {
                     "num": "863",
-                    "name": "Unknown"
+                    "name": "Perrserker"
                 }
             ]
         },
@@ -1597,15 +1514,15 @@
             "next_evolution": [
                 {
                     "num": "059",
-                    "name": "Unknown"
+                    "name": "Arcanine"
                 },
                 {
                     "num": "058-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Growlithe"
                 },
                 {
                     "num": "059-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Arcanine"
                 }
             ]
         },
@@ -1626,17 +1543,17 @@
             "prev_evolution": [
                 {
                     "num": "058",
-                    "name": "Unknown"
+                    "name": "Growlithe"
                 },
                 {
                     "num": "058-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Growlithe"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "059-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Arcanine"
                 }
             ]
         },
@@ -2024,9 +1941,7 @@
             "img": "https://www.serebii.net/pokemon/art/074.png",
             "type": [
                 "Rock",
-                "Ground",
-                "Rock",
-                "Electric"
+                "Ground"
             ],
             "height": "0.4m",
             "weight": "20kg",
@@ -2036,23 +1951,23 @@
             "next_evolution": [
                 {
                     "num": "075",
-                    "name": "Unknown"
+                    "name": "Graveler"
                 },
                 {
                     "num": "076",
-                    "name": "Unknown"
+                    "name": "Golem"
                 },
                 {
                     "num": "074-a",
-                    "name": "Unknown"
+                    "name": "Alola Geodude"
                 },
                 {
                     "num": "075-a",
-                    "name": "Unknown"
+                    "name": "Alola Graveler"
                 },
                 {
                     "num": "076-a",
-                    "name": "Unknown"
+                    "name": "Alola Golem"
                 }
             ]
         },
@@ -2063,9 +1978,7 @@
             "img": "https://www.serebii.net/pokemon/art/075.png",
             "type": [
                 "Rock",
-                "Ground",
-                "Rock",
-                "Electric"
+                "Ground"
             ],
             "height": "1m",
             "weight": "105kg",
@@ -2074,25 +1987,25 @@
             "prev_evolution": [
                 {
                     "num": "074",
-                    "name": "Unknown"
+                    "name": "Geodude"
                 },
                 {
                     "num": "074-a",
-                    "name": "Unknown"
+                    "name": "Alola Geodude"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "076",
-                    "name": "Unknown"
+                    "name": "Golem"
                 },
                 {
                     "num": "075-a",
-                    "name": "Unknown"
+                    "name": "Alola Graveler"
                 },
                 {
                     "num": "076-a",
-                    "name": "Unknown"
+                    "name": "Alola Golem"
                 }
             ]
         },
@@ -2103,9 +2016,7 @@
             "img": "https://www.serebii.net/pokemon/art/076.png",
             "type": [
                 "Rock",
-                "Ground",
-                "Rock",
-                "Electric"
+                "Ground"
             ],
             "height": "1.4m",
             "weight": "300kg",
@@ -2114,25 +2025,25 @@
             "prev_evolution": [
                 {
                     "num": "074",
-                    "name": "Unknown"
+                    "name": "Geodude"
                 },
                 {
                     "num": "075",
-                    "name": "Unknown"
+                    "name": "Graveler"
                 },
                 {
                     "num": "074-a",
-                    "name": "Unknown"
+                    "name": "Alola Geodude"
                 },
                 {
                     "num": "075-a",
-                    "name": "Unknown"
+                    "name": "Alola Graveler"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "076-a",
-                    "name": "Unknown"
+                    "name": "Alola Golem"
                 }
             ]
         },
@@ -2142,8 +2053,7 @@
             "name": "Ponyta",
             "img": "https://www.serebii.net/pokemon/art/077.png",
             "type": [
-                "Fire",
-                "Psychic"
+                "Fire"
             ],
             "height": "1.0m",
             "weight": "30.0kg",
@@ -2153,15 +2063,15 @@
             "next_evolution": [
                 {
                     "num": "078",
-                    "name": "Unknown"
+                    "name": "Rapidash"
                 },
                 {
                     "num": "077-g",
-                    "name": "Unknown"
+                    "name": "Galarian Ponyta"
                 },
                 {
                     "num": "078-g",
-                    "name": "Unknown"
+                    "name": "Galarian Rapidash"
                 }
             ]
         },
@@ -2171,9 +2081,7 @@
             "name": "Rapidash",
             "img": "https://www.serebii.net/pokemon/art/078.png",
             "type": [
-                "Fire",
-                "Psychic",
-                "Fairy"
+                "Fire"
             ],
             "height": "1.7m",
             "weight": "95.0kg",
@@ -2182,17 +2090,17 @@
             "prev_evolution": [
                 {
                     "num": "077",
-                    "name": "Unknown"
+                    "name": "Ponyta"
                 },
                 {
                     "num": "077-g",
-                    "name": "Unknown"
+                    "name": "Galarian Ponyta"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "078-g",
-                    "name": "Unknown"
+                    "name": "Galarian Rapidash"
                 }
             ]
         },
@@ -2332,8 +2240,7 @@
             "img": "https://www.serebii.net/pokemon/art/083.png",
             "type": [
                 "Normal",
-                "Flying",
-                "Fighting"
+                "Flying"
             ],
             "height": "0.8m",
             "weight": "15.0kg",
@@ -2343,11 +2250,11 @@
             "next_evolution": [
                 {
                     "num": "083-g",
-                    "name": "Unknown"
+                    "name": "Galarian Farfetch'd"
                 },
                 {
                     "num": "865",
-                    "name": "Unknown"
+                    "name": "Sirfetch'd"
                 }
             ]
         },
@@ -2440,9 +2347,7 @@
             "name": "Grimer",
             "img": "https://www.serebii.net/pokemon/art/088.png",
             "type": [
-                "Poison",
-                "Poison",
-                "Dark"
+                "Poison"
             ],
             "height": "0.9m",
             "weight": "30kg",
@@ -2452,15 +2357,15 @@
             "next_evolution": [
                 {
                     "num": "089",
-                    "name": "Unknown"
+                    "name": "Muk"
                 },
                 {
                     "num": "088-a",
-                    "name": "Unknown"
+                    "name": "Alola Grimer"
                 },
                 {
                     "num": "089-a",
-                    "name": "Unknown"
+                    "name": "Alola Muk"
                 }
             ]
         },
@@ -2470,9 +2375,7 @@
             "name": "Muk",
             "img": "https://www.serebii.net/pokemon/art/089.png",
             "type": [
-                "Poison",
-                "Poison",
-                "Dark"
+                "Poison"
             ],
             "height": "1.2m",
             "weight": "30kg",
@@ -2481,17 +2384,17 @@
             "prev_evolution": [
                 {
                     "num": "088",
-                    "name": "Unknown"
+                    "name": "Grimer"
                 },
                 {
                     "num": "088-a",
-                    "name": "Unknown"
+                    "name": "Alola Grimer"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "089-a",
-                    "name": "Unknown"
+                    "name": "Alola Muk"
                 }
             ]
         },
@@ -2757,9 +2660,7 @@
             "name": "Voltorb",
             "img": "https://www.serebii.net/pokemon/art/100.png",
             "type": [
-                "Electric",
-                "Electric",
-                "Grass"
+                "Electric"
             ],
             "height": "0.5m",
             "weight": "10.4kg",
@@ -2769,15 +2670,15 @@
             "next_evolution": [
                 {
                     "num": "101",
-                    "name": "Unknown"
+                    "name": "Electrode"
                 },
                 {
                     "num": "100-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Voltorb"
                 },
                 {
                     "num": "101-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Electrode"
                 }
             ]
         },
@@ -2787,9 +2688,7 @@
             "name": "Electrode",
             "img": "https://www.serebii.net/pokemon/art/101.png",
             "type": [
-                "Electric",
-                "Electric",
-                "Grass"
+                "Electric"
             ],
             "height": "1.2m",
             "weight": "66.6kg",
@@ -2798,17 +2697,17 @@
             "prev_evolution": [
                 {
                     "num": "100",
-                    "name": "Unknown"
+                    "name": "Voltorb"
                 },
                 {
                     "num": "100-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Voltorb"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "101-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Electrode"
                 }
             ]
         },
@@ -2829,11 +2728,11 @@
             "next_evolution": [
                 {
                     "num": "103",
-                    "name": "Unknown"
+                    "name": "Exeggutor"
                 },
                 {
                     "num": "103-a",
-                    "name": "Unknown"
+                    "name": "Alola Exeggutor"
                 }
             ]
         },
@@ -2844,9 +2743,7 @@
             "img": "https://www.serebii.net/pokemon/art/103.png",
             "type": [
                 "Grass",
-                "Psychic",
-                "Grass",
-                "Dragon"
+                "Psychic"
             ],
             "height": "2m",
             "weight": "120kg",
@@ -2855,13 +2752,13 @@
             "prev_evolution": [
                 {
                     "num": "102",
-                    "name": "Unknown"
+                    "name": "Exeggcute"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "103-a",
-                    "name": "Unknown"
+                    "name": "Alola Exeggutor"
                 }
             ]
         },
@@ -2881,11 +2778,11 @@
             "next_evolution": [
                 {
                     "num": "105",
-                    "name": "Unknown"
+                    "name": "Marowak"
                 },
                 {
                     "num": "105-a",
-                    "name": "Unknown"
+                    "name": "Alola Marowak"
                 }
             ]
         },
@@ -2895,9 +2792,7 @@
             "name": "Marowak",
             "img": "https://www.serebii.net/pokemon/art/105.png",
             "type": [
-                "Ground",
-                "Fire",
-                "Ghost"
+                "Ground"
             ],
             "height": "1.0m",
             "weight": "45.0kg",
@@ -2906,13 +2801,13 @@
             "prev_evolution": [
                 {
                     "num": "104",
-                    "name": "Unknown"
+                    "name": "Cubone"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "105-a",
-                    "name": "Unknown"
+                    "name": "Alola Marowak"
                 }
             ]
         },
@@ -2940,7 +2835,7 @@
                 },
                 {
                     "num": "237",
-                    "name": "Unknown"
+                    "name": "Hitmontop"
                 }
             ]
         },
@@ -2959,7 +2854,7 @@
             "prev_evolution": [
                 {
                     "num": "106",
-                    "name": "Unknown"
+                    "name": "Hitmonlee"
                 }
             ],
             "next_evolution": [
@@ -2969,7 +2864,7 @@
                 },
                 {
                     "num": "237",
-                    "name": "Unknown"
+                    "name": "Hitmontop"
                 }
             ]
         },
@@ -3009,11 +2904,11 @@
             "next_evolution": [
                 {
                     "num": "110",
-                    "name": "Unknown"
+                    "name": "Weezing"
                 },
                 {
                     "num": "110-g",
-                    "name": "Unknown"
+                    "name": "Galarian Weezing"
                 }
             ]
         },
@@ -3023,9 +2918,7 @@
             "name": "Weezing",
             "img": "https://www.serebii.net/pokemon/art/110.png",
             "type": [
-                "Poison",
-                "Poison",
-                "Fairy"
+                "Poison"
             ],
             "height": "1.2m",
             "weight": "9.5kg",
@@ -3034,13 +2927,13 @@
             "prev_evolution": [
                 {
                     "num": "109",
-                    "name": "Unknown"
+                    "name": "Koffing"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "110-g",
-                    "name": "Unknown"
+                    "name": "Galarian Weezing"
                 }
             ]
         },
@@ -3340,7 +3233,7 @@
                 },
                 {
                     "num": "900",
-                    "name": "Unknown"
+                    "name": "Kleavor"
                 }
             ]
         },
@@ -4155,15 +4048,15 @@
             "next_evolution": [
                 {
                     "num": "156",
-                    "name": "Unknown"
+                    "name": "Quilava"
                 },
                 {
                     "num": "157",
-                    "name": "Unknown"
+                    "name": "Typhlosion"
                 },
                 {
                     "num": "157-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Typhlosion"
                 }
             ]
         },
@@ -4182,17 +4075,17 @@
             "prev_evolution": [
                 {
                     "num": "155",
-                    "name": "Unknown"
+                    "name": "Cyndaquil"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "157",
-                    "name": "Unknown"
+                    "name": "Typhlosion"
                 },
                 {
                     "num": "157-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Typhlosion"
                 }
             ]
         },
@@ -4202,9 +4095,7 @@
             "name": "Typhlosion",
             "img": "https://www.serebii.net/pokemon/art/157.png",
             "type": [
-                "Fire",
-                "Fire",
-                "Ghost"
+                "Fire"
             ],
             "height": "1.7m",
             "weight": "79.5kg",
@@ -4213,17 +4104,17 @@
             "prev_evolution": [
                 {
                     "num": "155",
-                    "name": "Unknown"
+                    "name": "Cyndaquil"
                 },
                 {
                     "num": "156",
-                    "name": "Unknown"
+                    "name": "Quilava"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "157-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Typhlosion"
                 }
             ]
         },
@@ -4546,9 +4437,12 @@
             "candy": "",
             "egg": "",
             "prev_evolution": [
+                
+            ],
+            "next_evolution": [
                 {
                     "num": "025",
-                    "name": "Unknown"
+                    "name": "Pikachu"
                 },
                 {
                     "num": "025-gi",
@@ -4556,14 +4450,13 @@
                 },
                 {
                     "num": "026",
-                    "name": "Unknown"
+                    "name": "Raichu"
                 },
                 {
                     "num": "026-a",
-                    "name": "Unknown"
+                    "name": "Alola Raichu"
                 }
-            ],
-            "next_evolution": []
+            ]
         },
         {
             "id": 173,
@@ -5083,8 +4976,6 @@
             "img": "https://www.serebii.net/pokemon/art/194.png",
             "type": [
                 "Water",
-                "Ground",
-                "Poison",
                 "Ground"
             ],
             "height": "0.4m",
@@ -5092,19 +4983,16 @@
             "candy": "",
             "egg": "",
             "prev_evolution": [
-                {
-                    "num": "1009",
-                    "name": "Unknown"
-                }
+            
             ],
             "next_evolution": [
                 {
-                    "num": "195",
-                    "name": "Unknown"
+                    "num": "194-p",
+                    "name": "Paldean Wooper"
                 },
                 {
-                    "num": "194-p",
-                    "name": "Unknown"
+                    "num": "195",
+                    "name": "Quagsire"
                 }
             ]
         },
@@ -5124,15 +5012,7 @@
             "prev_evolution": [
                 {
                     "num": "194",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "194-p",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "1009",
-                    "name": "Unknown"
+                    "name": "Wooper"
                 }
             ],
             "next_evolution": []
@@ -5530,8 +5410,6 @@
             "img": "https://www.serebii.net/pokemon/art/211.png",
             "type": [
                 "Water",
-                "Poison",
-                "Dark",
                 "Poison"
             ],
             "height": "0.5m",
@@ -5542,11 +5420,11 @@
             "next_evolution": [
                 {
                     "num": "211-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Qwilfish"
                 },
                 {
                     "num": "904",
-                    "name": "Unknown"
+                    "name": "Overqwil"
                 }
             ]
         },
@@ -5576,7 +5454,7 @@
                 },
                 {
                     "num": "900",
-                    "name": "Unknown"
+                    "name": "Kleavor"
                 }
             ]
         },
@@ -5624,9 +5502,7 @@
             "img": "https://www.serebii.net/pokemon/art/215.png",
             "type": [
                 "Dark",
-                "Ice",
-                "Fighting",
-                "Poison"
+                "Ice"
             ],
             "height": "0.9m",
             "weight": "28kg",
@@ -5635,16 +5511,16 @@
             "prev_evolution": [],
             "next_evolution": [
                 {
-                    "num": "461",
-                    "name": "Unknown"
+                    "num": "215-h",
+                    "name": "Hisuian Sneasel"
                 },
                 {
-                    "num": "215-h",
-                    "name": "Unknown"
+                    "num": "461",
+                    "name": "Weavile"
                 },
                 {
                     "num": "903",
-                    "name": "Unknown"
+                    "name": "Sneasler"
                 }
             ]
         },
@@ -5796,8 +5672,7 @@
             "img": "https://www.serebii.net/pokemon/art/222.png",
             "type": [
                 "Water",
-                "Rock",
-                "Ghost"
+                "Rock"
             ],
             "height": "0.6m",
             "weight": "5.0kg",
@@ -5807,11 +5682,11 @@
             "next_evolution": [
                 {
                     "num": "222-g",
-                    "name": "Unknown"
+                    "name": "Galarian Corsola"
                 },
                 {
                     "num": "864",
-                    "name": "Unknown"
+                    "name": "Cursola"
                 }
             ]
         },
@@ -6103,13 +5978,13 @@
                 },
                 {
                     "num": "106",
-                    "name": "Unknown"
+                    "name": "Hitmonlee"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "237",
-                    "name": "Unknown"
+                    "name": "Hitmontop"
                 }
             ]
         },
@@ -6136,7 +6011,7 @@
                 },
                 {
                     "num": "106",
-                    "name": "Unknown"
+                    "name": "Hitmonlee"
                 }
             ],
             "next_evolution": []
@@ -6742,8 +6617,6 @@
             "name": "Zigzagoon",
             "img": "https://www.serebii.net/pokemon/art/263.png",
             "type": [
-                "Normal",
-                "Dark",
                 "Normal"
             ],
             "height": "0.4m",
@@ -6753,20 +6626,20 @@
             "prev_evolution": [],
             "next_evolution": [
                 {
-                    "num": "264",
-                    "name": "Unknown"
+                    "num": "263-g",
+                    "name": "Galarian Zigzagoon"
                 },
                 {
-                    "num": "263-g",
-                    "name": "Unknown"
+                    "num": "264",
+                    "name": "Linoone"
                 },
                 {
                     "num": "264-g",
-                    "name": "Unknown"
+                    "name": "Galarian Linoone"
                 },
                 {
                     "num": "862",
-                    "name": "Unknown"
+                    "name": "Obstagoon"
                 }
             ]
         },
@@ -6776,8 +6649,6 @@
             "name": "Linoone",
             "img": "https://www.serebii.net/pokemon/art/264.png",
             "type": [
-                "Normal",
-                "Dark",
                 "Normal"
             ],
             "height": "0.5m",
@@ -6787,21 +6658,17 @@
             "prev_evolution": [
                 {
                     "num": "263",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "263-g",
-                    "name": "Unknown"
+                    "name": "Zigzagoon"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "264-g",
-                    "name": "Unknown"
+                    "name": "Galarian Linoone"
                 },
                 {
                     "num": "862",
-                    "name": "Unknown"
+                    "name": "Obstagoon"
                 }
             ]
         },
@@ -6824,16 +6691,16 @@
                     "name": "Silcoon"
                 },
                 {
+                    "num": "268",
+                    "name": "Cascoon"
+                },
+                {
                     "num": "267",
                     "name": "Beautifly"
                 },
                 {
-                    "num": "268",
-                    "name": "Unknown"
-                },
-                {
                     "num": "269",
-                    "name": "Unknown"
+                    "name": "Dustox"
                 }
             ]
         },
@@ -6862,11 +6729,11 @@
                 },
                 {
                     "num": "268",
-                    "name": "Unknown"
+                    "name": "Cascoon"
                 },
                 {
                     "num": "269",
-                    "name": "Unknown"
+                    "name": "Dustox"
                 }
             ]
         },
@@ -6896,11 +6763,11 @@
             "next_evolution": [
                 {
                     "num": "268",
-                    "name": "Unknown"
+                    "name": "Cascoon"
                 },
                 {
                     "num": "269",
-                    "name": "Unknown"
+                    "name": "Dustox"
                 }
             ]
         },
@@ -6924,16 +6791,17 @@
                 {
                     "num": "266",
                     "name": "Silcoon"
-                },
-                {
-                    "num": "267",
-                    "name": "Beautifly"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "269",
-                    "name": "Unknown"
+                    "name": "Dustox"
+                }
+                ,
+                {
+                    "num": "267",
+                    "name": "Beautifly"
                 }
             ]
         },
@@ -6960,12 +6828,8 @@
                     "name": "Silcoon"
                 },
                 {
-                    "num": "267",
-                    "name": "Beautifly"
-                },
-                {
                     "num": "268",
-                    "name": "Unknown"
+                    "name": "Cascoon"
                 }
             ],
             "next_evolution": []
@@ -7238,7 +7102,7 @@
                 },
                 {
                     "num": "475-m",
-                    "name": "Unknown"
+                    "name": "Mega Gallade"
                 }
             ]
         },
@@ -7276,7 +7140,7 @@
                 },
                 {
                     "num": "475-m",
-                    "name": "Unknown"
+                    "name": "Mega Gallade"
                 }
             ]
         },
@@ -7314,7 +7178,7 @@
                 },
                 {
                     "num": "475-m",
-                    "name": "Unknown"
+                    "name": "Mega Gallade"
                 }
             ]
         },
@@ -7495,7 +7359,7 @@
                 },
                 {
                     "num": "292",
-                    "name": "Unknown"
+                    "name": "Shedinja"
                 }
             ]
         },
@@ -7521,7 +7385,7 @@
             "next_evolution": [
                 {
                     "num": "292",
-                    "name": "Unknown"
+                    "name": "Shedinja"
                 }
             ]
         },
@@ -9025,7 +8889,7 @@
                 },
                 {
                     "num": "478",
-                    "name": "Unknown"
+                    "name": "Froslass"
                 }
             ]
         },
@@ -9054,7 +8918,7 @@
                 },
                 {
                     "num": "478",
-                    "name": "Unknown"
+                    "name": "Froslass"
                 }
             ]
         },
@@ -9154,7 +9018,7 @@
                 },
                 {
                     "num": "368",
-                    "name": "Unknown"
+                    "name": "Gorebyss"
                 }
             ]
         },
@@ -9179,7 +9043,7 @@
             "next_evolution": [
                 {
                     "num": "368",
-                    "name": "Unknown"
+                    "name": "Gorebyss"
                 }
             ]
         },
@@ -10199,7 +10063,7 @@
                 },
                 {
                     "num": "414",
-                    "name": "Unknown"
+                    "name": "Mothim"
                 }
             ]
         },
@@ -10229,7 +10093,7 @@
             "next_evolution": [
                 {
                     "num": "414",
-                    "name": "Unknown"
+                    "name": "Mothim"
                 }
             ]
         },
@@ -11262,18 +11126,15 @@
             "prev_evolution": [
                 {
                     "num": "215",
-                    "name": "Unknown"
+                    "name": "Sneasel"
                 },
                 {
                     "num": "215-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Sneasel"
                 }
             ],
             "next_evolution": [
-                {
-                    "num": "903",
-                    "name": "Unknown"
-                }
+
             ]
         },
         {
@@ -11670,7 +11531,7 @@
             "next_evolution": [
                 {
                     "num": "475-m",
-                    "name": "Unknown"
+                    "name": "Mega Gallade"
                 }
             ]
         },
@@ -12181,15 +12042,15 @@
             "next_evolution": [
                 {
                     "num": "502",
-                    "name": "Unknown"
+                    "name": "Dewott"
                 },
                 {
                     "num": "503",
-                    "name": "Unknown"
+                    "name": "Samurott"
                 },
                 {
                     "num": "503-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Samurott"
                 }
             ]
         },
@@ -12208,17 +12069,17 @@
             "prev_evolution": [
                 {
                     "num": "501",
-                    "name": "Unknown"
+                    "name": "Oshawott"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "503",
-                    "name": "Unknown"
+                    "name": "Samurott"
                 },
                 {
                     "num": "503-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Samurott"
                 }
             ]
         },
@@ -12239,17 +12100,17 @@
             "prev_evolution": [
                 {
                     "num": "501",
-                    "name": "Unknown"
+                    "name": "Oshawott"
                 },
                 {
                     "num": "502",
-                    "name": "Unknown"
+                    "name": "Dewott"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "503-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Samurott"
                 }
             ]
         },
@@ -13246,11 +13107,11 @@
             "next_evolution": [
                 {
                     "num": "549",
-                    "name": "Unknown"
+                    "name": "Lilligant"
                 },
                 {
                     "num": "549-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Lilligant"
                 }
             ]
         },
@@ -13260,9 +13121,7 @@
             "name": "Lilligant",
             "img": "https://www.serebii.net/pokemon/art/549.png",
             "type": [
-                "Grass",
-                "Grass",
-                "Fighting"
+                "Grass"
             ],
             "height": "1.1m",
             "weight": "16.3kg",
@@ -13271,13 +13130,13 @@
             "prev_evolution": [
                 {
                     "num": "548",
-                    "name": "Unknown"
+                    "name": "Petilil"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "549-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Lilligant"
                 }
             ]
         },
@@ -13296,12 +13155,8 @@
             "prev_evolution": [],
             "next_evolution": [
                 {
-                    "num": "550-w",
-                    "name": "Unknown"
-                },
-                {
                     "num": "902",
-                    "name": "Unknown"
+                    "name": "Basculegion"
                 }
             ]
         },
@@ -13387,8 +13242,7 @@
             "name": "Darumaka",
             "img": "https://www.serebii.net/pokemon/art/554.png",
             "type": [
-                "Fire",
-                "Ice"
+                "Fire"
             ],
             "height": "0.6m",
             "weight": "37.5kg",
@@ -13398,15 +13252,15 @@
             "next_evolution": [
                 {
                     "num": "555",
-                    "name": "Unknown"
+                    "name": "Darmanitan"
                 },
                 {
                     "num": "554-g",
-                    "name": "Unknown"
+                    "name": "Galarian Darumaka"
                 },
                 {
                     "num": "555-g",
-                    "name": "Unknown"
+                    "name": "Galarian Darmanitan "
                 }
             ]
         },
@@ -13416,11 +13270,7 @@
             "name": "Darmanitan",
             "img": "https://www.serebii.net/pokemon/art/555.png",
             "type": [
-                "Fire",
-                "Fire",
-                "Psychic",
-                "Fire",
-                "Ice"
+                "Fire"
             ],
             "height": "1.3m",
             "weight": "92.9kg",
@@ -13429,17 +13279,17 @@
             "prev_evolution": [
                 {
                     "num": "554",
-                    "name": "Unknown"
+                    "name": "Darumaka"
                 },
                 {
                     "num": "554-g",
-                    "name": "Unknown"
+                    "name": "Galarian Darumaka"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "555-g",
-                    "name": "Unknown"
+                    "name": "Galarian Darmanitan"
                 }
             ]
         },
@@ -13575,16 +13425,16 @@
             "prev_evolution": [],
             "next_evolution": [
                 {
-                    "num": "563",
-                    "name": "Unknown"
+                    "num": "562-g",
+                    "name": "Galarian Yamask"
                 },
                 {
-                    "num": "562-g",
-                    "name": "Unknown"
+                    "num": "563",
+                    "name": "Cofagrigus"
                 },
                 {
                     "num": "867",
-                    "name": "Unknown"
+                    "name": "Runerigus"
                 }
             ]
         },
@@ -13603,17 +13453,13 @@
             "prev_evolution": [
                 {
                     "num": "562",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "562-g",
-                    "name": "Unknown"
+                    "name": "Yamask"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "867",
-                    "name": "Unknown"
+                    "name": "Runerigus"
                 }
             ]
         },
@@ -13756,9 +13602,7 @@
             "name": "Zorua",
             "img": "https://www.serebii.net/pokemon/art/570.png",
             "type": [
-                "Dark",
-                "Normal",
-                "Ghost"
+                "Dark"
             ],
             "height": "0.7m",
             "weight": "12.5kg",
@@ -13767,16 +13611,16 @@
             "prev_evolution": [],
             "next_evolution": [
                 {
-                    "num": "571",
-                    "name": "Unknown"
+                    "num": "570-h",
+                    "name": "Hisuian Zorua"
                 },
                 {
-                    "num": "570-h",
-                    "name": "Unknown"
+                    "num": "571",
+                    "name": "Zoroark"
                 },
                 {
                     "num": "571-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Zoroark"
                 }
             ]
         },
@@ -13797,17 +13641,17 @@
             "prev_evolution": [
                 {
                     "num": "570",
-                    "name": "Unknown"
+                    "name": "Zorua"
                 },
                 {
                     "num": "570-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Zorua"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "571-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Zoroark"
                 }
             ]
         },
@@ -14831,9 +14675,7 @@
             "img": "https://www.serebii.net/pokemon/art/618.png",
             "type": [
                 "Ground",
-                "Electric",
-                "Ground",
-                "Steel"
+                "Electric"
             ],
             "height": "0.7m",
             "weight": "11.0kg",
@@ -14843,7 +14685,7 @@
             "next_evolution": [
                 {
                     "num": "618-g",
-                    "name": "Unknown"
+                    "name": "Galarian Stunfisk"
                 }
             ]
         },
@@ -15018,11 +14860,11 @@
             "next_evolution": [
                 {
                     "num": "628",
-                    "name": "Unknown"
+                    "name": "Braviary"
                 },
                 {
                     "num": "628-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Braviary"
                 }
             ]
         },
@@ -15044,13 +14886,13 @@
             "prev_evolution": [
                 {
                     "num": "627",
-                    "name": "Unknown"
+                    "name": "Rufflet"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "628-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Braviary"
                 }
             ]
         },
@@ -16666,19 +16508,19 @@
             "next_evolution": [
                 {
                     "num": "705",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "706",
-                    "name": "Unknown"
+                    "name": "Sliggoo"
                 },
                 {
                     "num": "705-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Sliggoo"
+                },
+                {
+                    "num": "706",
+                    "name": "Goodra"
                 },
                 {
                     "num": "706-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Goodra"
                 }
             ]
         },
@@ -16688,8 +16530,6 @@
             "name": "Sliggoo",
             "img": "https://www.serebii.net/pokemon/art/705.png",
             "type": [
-                "Dragon",
-                "Steel",
                 "Dragon"
             ],
             "height": "0.8m",
@@ -16699,21 +16539,21 @@
             "prev_evolution": [
                 {
                     "num": "704",
-                    "name": "Unknown"
+                    "name": "Goomy"
                 }
             ],
             "next_evolution": [
                 {
-                    "num": "706",
-                    "name": "Unknown"
+                    "num": "705-h",
+                    "name": "Hisuian Sliggoo"
                 },
                 {
-                    "num": "705-h",
-                    "name": "Unknown"
+                    "num": "706",
+                    "name": "Goodra"
                 },
                 {
                     "num": "706-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Goodra"
                 }
             ]
         },
@@ -16723,8 +16563,6 @@
             "name": "Goodra",
             "img": "https://www.serebii.net/pokemon/art/706.png",
             "type": [
-                "Dragon",
-                "Steel",
                 "Dragon"
             ],
             "height": "2m",
@@ -16734,21 +16572,21 @@
             "prev_evolution": [
                 {
                     "num": "704",
-                    "name": "Unknown"
+                    "name": "Goomy"
                 },
                 {
                     "num": "705",
-                    "name": "Unknown"
+                    "name": "Sliggoo"
                 },
                 {
                     "num": "705-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Sliggoo"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "706-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Goodra"
                 }
             ]
         },
@@ -16868,11 +16706,11 @@
             "next_evolution": [
                 {
                     "num": "713",
-                    "name": "Unknown"
+                    "name": "Avalugg"
                 },
                 {
                     "num": "713-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Avalugg"
                 }
             ]
         },
@@ -16882,9 +16720,7 @@
             "name": "Avalugg",
             "img": "https://www.serebii.net/pokemon/art/713.png",
             "type": [
-                "Ice",
-                "Ice",
-                "Rock"
+                "Ice"
             ],
             "height": "2m",
             "weight": "505kg",
@@ -16893,13 +16729,13 @@
             "prev_evolution": [
                 {
                     "num": "712",
-                    "name": "Unknown"
+                    "name": "Bergmite"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "713-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Avalugg"
                 }
             ]
         },
@@ -17064,15 +16900,15 @@
             "next_evolution": [
                 {
                     "num": "723",
-                    "name": "Unknown"
+                    "name": "Dartrix"
                 },
                 {
                     "num": "724",
-                    "name": "Unknown"
+                    "name": "Decidueye"
                 },
                 {
                     "num": "724-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Decidueye"
                 }
             ]
         },
@@ -17092,17 +16928,17 @@
             "prev_evolution": [
                 {
                     "num": "722",
-                    "name": "Unknown"
+                    "name": "Rowlet"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "724",
-                    "name": "Unknown"
+                    "name": "Decidueye"
                 },
                 {
                     "num": "724-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Decidueye"
                 }
             ]
         },
@@ -17113,9 +16949,7 @@
             "img": "https://www.serebii.net/pokemon/art/724.png",
             "type": [
                 "Grass",
-                "Ghost",
-                "Grass",
-                "Fighting"
+                "Ghost"
             ],
             "height": "1.6m",
             "weight": "36.6kg",
@@ -17124,17 +16958,17 @@
             "prev_evolution": [
                 {
                     "num": "722",
-                    "name": "Unknown"
+                    "name": "Rowlet"
                 },
                 {
                     "num": "723",
-                    "name": "Unknown"
+                    "name": "Dartrix"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "724-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Decidueye"
                 }
             ]
         },
@@ -17602,11 +17436,11 @@
                 },
                 {
                     "num": "745-m",
-                    "name": "Unknown"
+                    "name": "Midnight Lycanroc"
                 },
                 {
                     "num": "745-d",
-                    "name": "Unknown"
+                    "name": "Dusk Lycanroc"
                 }
             ]
         },
@@ -17631,11 +17465,11 @@
             "next_evolution": [
                 {
                     "num": "745-m",
-                    "name": "Unknown"
+                    "name": "Midnight Lycanroc"
                 },
                 {
                     "num": "745-d",
-                    "name": "Unknown"
+                    "name": "Dusk Lycanroc"
                 }
             ]
         },
@@ -19689,11 +19523,11 @@
             "prev_evolution": [
                 {
                     "num": "1011",
-                    "name": "Unknown"
+                    "name": "Dipplin"
                 },
                 {
                     "num": "1019",
-                    "name": "Unknown"
+                    "name": "Hydrapple"
                 }
             ],
             "next_evolution": [
@@ -19707,7 +19541,7 @@
                 },
                 {
                     "num": "842",
-                    "name": "Unknown"
+                    "name": "Appletun"
                 },
                 {
                     "num": "842-gi",
@@ -19735,11 +19569,11 @@
                 },
                 {
                     "num": "1011",
-                    "name": "Unknown"
+                    "name": "Dipplin"
                 },
                 {
                     "num": "1019",
-                    "name": "Unknown"
+                    "name": "Hydrapple"
                 }
             ],
             "next_evolution": [
@@ -19749,7 +19583,7 @@
                 },
                 {
                     "num": "842",
-                    "name": "Unknown"
+                    "name": "Appletun"
                 },
                 {
                     "num": "842-gi",
@@ -19785,11 +19619,11 @@
                 },
                 {
                     "num": "1011",
-                    "name": "Unknown"
+                    "name": "Dipplin"
                 },
                 {
                     "num": "1019",
-                    "name": "Unknown"
+                    "name": "Hydrapple"
                 }
             ],
             "next_evolution": [
@@ -20061,16 +19895,16 @@
             "prev_evolution": [],
             "next_evolution": [
                 {
-                    "num": "855",
-                    "name": "Unknown"
+                    "num": "854-f",
+                    "name": "Phony Sinistea"
                 },
                 {
-                    "num": "854-f",
-                    "name": "Unknown"
+                    "num": "855",
+                    "name": "Polteageist"
                 },
                 {
                     "num": "855-f",
-                    "name": "Unknown"
+                    "name": "Phony Polteageist"
                 }
             ]
         },
@@ -20089,17 +19923,17 @@
             "prev_evolution": [
                 {
                     "num": "854",
-                    "name": "Unknown"
+                    "name": "Sinistea"
                 },
                 {
                     "num": "854-f",
-                    "name": "Unknown"
+                    "name": "Phony Sinistea"
                 }
             ],
             "next_evolution": [
                 {
                     "num": "855-f",
-                    "name": "Unknown"
+                    "name": "Phony Polteageist"
                 }
             ]
         },
@@ -20285,8 +20119,7 @@
             "name": "Obstagoon",
             "img": "https://www.serebii.net/pokemon/art/862.png",
             "type": [
-                "Dark",
-                "Normal"
+                "Dark"
             ],
             "height": "1.6m",
             "weight": "46.0kg",
@@ -20295,19 +20128,19 @@
             "prev_evolution": [
                 {
                     "num": "263",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "264",
-                    "name": "Unknown"
+                    "name": "Zigzagoon"
                 },
                 {
                     "num": "263-g",
-                    "name": "Unknown"
+                    "name": "Galarian Zigzagoon"
+                },
+                {
+                    "num": "264",
+                    "name": "Linoone"
                 },
                 {
                     "num": "264-g",
-                    "name": "Unknown"
+                    "name": "Galarian Linoone"
                 }
             ],
             "next_evolution": []
@@ -20327,7 +20160,7 @@
             "prev_evolution": [
                 {
                     "num": "052",
-                    "name": "Unknown"
+                    "name": "Meowth"
                 },
                 {
                     "num": "052-gi",
@@ -20335,19 +20168,19 @@
                 },
                 {
                     "num": "053",
-                    "name": "Unknown"
+                    "name": "Persian"
                 },
                 {
                     "num": "052-a",
-                    "name": "Unknown"
+                    "name": "Alola Meowth"
                 },
                 {
                     "num": "053-a",
-                    "name": "Unknown"
+                    "name": "Alola Persian"
                 },
                 {
                     "num": "052-g",
-                    "name": "Unknown"
+                    "name": "Galarian Meowth"
                 }
             ],
             "next_evolution": []
@@ -20367,11 +20200,11 @@
             "prev_evolution": [
                 {
                     "num": "222",
-                    "name": "Unknown"
+                    "name": "Corsola"
                 },
                 {
                     "num": "222-g",
-                    "name": "Unknown"
+                    "name": "Galarian Corsola"
                 }
             ],
             "next_evolution": []
@@ -20391,11 +20224,11 @@
             "prev_evolution": [
                 {
                     "num": "083",
-                    "name": "Unknown"
+                    "name": "Farfetch'd"
                 },
                 {
                     "num": "083-g",
-                    "name": "Unknown"
+                    "name": "Galarian Farfetch'd"
                 }
             ],
             "next_evolution": []
@@ -20440,16 +20273,17 @@
             "prev_evolution": [
                 {
                     "num": "562",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "563",
-                    "name": "Unknown"
+                    "name": "Yamask"
                 },
                 {
                     "num": "562-g",
-                    "name": "Unknown"
+                    "name": "Galarian Yamask"
+                },
+                {
+                    "num": "563",
+                    "name": "Cofagrigus"
                 }
+                
             ],
             "next_evolution": []
         },
@@ -20765,7 +20599,7 @@
             "prev_evolution": [
                 {
                     "num": "1018",
-                    "name": "Unknown"
+                    "name": "Archaludon"
                 }
             ],
             "next_evolution": [
@@ -21138,11 +20972,11 @@
             "prev_evolution": [
                 {
                     "num": "550",
-                    "name": "Unknown"
+                    "name": "Basculin"
                 },
                 {
                     "num": "550-w",
-                    "name": "Unknown"
+                    "name": "White-Striped Basculin"
                 }
             ],
             "next_evolution": []
@@ -21163,15 +20997,15 @@
             "prev_evolution": [
                 {
                     "num": "215",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "461",
-                    "name": "Unknown"
+                    "name": "Sneasel"
                 },
                 {
                     "num": "215-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Sneasel"
+                },
+                {
+                    "num": "461",
+                    "name": "Weavile"
                 }
             ],
             "next_evolution": []
@@ -21192,11 +21026,11 @@
             "prev_evolution": [
                 {
                     "num": "211",
-                    "name": "Unknown"
+                    "name": "Qwilfish"
                 },
                 {
                     "num": "211-h",
-                    "name": "Unknown"
+                    "name": "Hisuian Qwilfish"
                 }
             ],
             "next_evolution": []
@@ -21900,7 +21734,7 @@
                 },
                 {
                     "num": "937",
-                    "name": "Unknown"
+                    "name": "Ceruledge"
                 }
             ]
         },
@@ -21926,7 +21760,7 @@
             "next_evolution": [
                 {
                     "num": "937",
-                    "name": "Unknown"
+                    "name": "Ceruledge"
                 }
             ]
         },
@@ -22811,19 +22645,15 @@
             "prev_evolution": [
                 {
                     "num": "194",
-                    "name": "Unknown"
-                },
-                {
-                    "num": "195",
-                    "name": "Unknown"
+                    "name": "Wooper"
                 },
                 {
                     "num": "194-p",
-                    "name": "Unknown"
+                    "name": "Paldean Wooper"
                 },
                 {
-                    "num": "1009",
-                    "name": "Unknown"
+                    "num": "195",
+                    "name": "Quagsire"
                 }
             ],
             "next_evolution": []
@@ -22844,7 +22674,7 @@
             "prev_evolution": [
                 {
                     "num": "203",
-                    "name": "Unknown"
+                    "name": "Girafarig"
                 }
             ],
             "next_evolution": []
@@ -23392,7 +23222,7 @@
                 },
                 {
                     "num": "842",
-                    "name": "Unknown"
+                    "name": "Appletun"
                 },
                 {
                     "num": "842-gi",
@@ -23400,7 +23230,7 @@
                 },
                 {
                     "num": "1019",
-                    "name": "Unknown"
+                    "name": "Hydrapple"
                 }
             ]
         },
@@ -23526,7 +23356,7 @@
             "next_evolution": [
                 {
                     "num": "884",
-                    "name": "Unknown"
+                    "name": "Duraludon"
                 },
                 {
                     "num": "884-gi",
@@ -23550,7 +23380,7 @@
             "prev_evolution": [
                 {
                     "num": "1011",
-                    "name": "Unknown"
+                    "name": "Dipplin"
                 }
             ],
             "next_evolution": [
@@ -23568,7 +23398,7 @@
                 },
                 {
                     "num": "842",
-                    "name": "Unknown"
+                    "name": "Appletun"
                 },
                 {
                     "num": "842-gi",
